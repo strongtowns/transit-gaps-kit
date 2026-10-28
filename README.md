@@ -8,7 +8,7 @@ A town-agnostic, config-driven toolkit for measuring fixed-route transit **span-
 
 Born from a real local question in **Lawrence, Kansas** ([live report](https://lawrence-transit-gaps.pages.dev)). Generalized so another town can drop in a city config and get the same kind of schedule-gap report. Prepared for [strongtowns.dev](https://strongtowns.dev) (Strong Towns Community Developers).
 
-> **Not affiliated with Strong Towns** ([strongtowns.org](https://www.strongtowns.org)). MIT-licensed open source by Orion Wills, 2026.
+MIT-licensed open source by Orion Wills, 2026.
 
 ## Why this exists
 
