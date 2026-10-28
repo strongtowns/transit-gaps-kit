@@ -109,8 +109,7 @@ runs/              # local only (gitignored) — per-city outputs
 
 - Origin: Lawrence, KS transit access gaps project (2026), live at https://lawrence-transit-gaps.pages.dev
 - Author: Orion Wills
-- Intended submission venue: [strongtowns.dev](https://strongtowns.dev)
-- **Not affiliated with Strong Towns**
+- Shared with the [Strong Towns](https://github.com/strongtowns) GitHub org; original repo: [brevitywithorion/transit-gaps-kit](https://github.com/brevitywithorion/transit-gaps-kit)
 
 ## License
 
