@@ -1,5 +1,7 @@
 # Transit Gaps Kit
 
+> This is the Strong Towns fork of [brevitywithorion/transit-gaps-kit](https://github.com/brevitywithorion/transit-gaps-kit), which remains the main copy. Changes are synced here from the original. Please open issues and pull requests on the original repo.
+
 **Question it answers:** *Who can get where without a car, and when?*
 
 A town-agnostic, config-driven toolkit for measuring fixed-route transit **span-of-service gaps** (Sunday, evenings, short days) from a public GTFS feed — with optional hooks for ACS demographics, LODES jobs, and walk+transit access modeling (r5py).
